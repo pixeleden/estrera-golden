@@ -1,0 +1,22 @@
+{
+  "name": "estrera-golden",
+  "description": "Jun and Juana Estrera's 50th Golden Anniversary",
+  "main": "index.js",
+  "authors": [
+    "Allan Reyes"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "^2.2.12",
+    "compass-breakpoint": "breakpoint-sass#^2.6.1"
+  }
+}
