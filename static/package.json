@@ -1,12 +1,13 @@
 {
-  "name": "ulampinoy-website",
-  "version": "3.0.0",
-  "description": "Official Website of Ulampinoy",
+  "name": "estrera-golden",
+  "version": "1.0.0",
+  "description": "Estrera Golden Anniversary",
   "main": "index.js",
   "dependencies": {
     "node-sass": "^3.4.2",
     "support-for": "^1.0.3",
-    "susy": "^2.2.12"
+    "susy": "^2.2.12",
+    "breakpoint-sass": "^2.7.0"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
@@ -17,14 +18,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pixeleden/ulampinoy.git"
-  },
-  "author": "Allan Reyes",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pixeleden/ulampinoy/issues"
-  },
-  "homepage": "https://github.com/pixeleden/ulampinoy#readme"
+  "author": "Allan Reyes"
 }
